@@ -1,7 +1,157 @@
 {
-    "merchantId": "12347",
-    "active": true,
-    "dataMap": {
-        "sponsoredMerchantMCCI": "5965"
+"cuentas": [
+    {
+        "idCuenta": 1,
+        "numeroCuenta": "999999999999",
+        "tipoCuenta": "Cuenta Soles",
+        "tipoMoneda" : "S/",
+        "montoTotal" : "1,000.80"
+    },
+    {
+        "idCuenta": 2,
+        "numeroCuenta": "999999999999",
+        "tipoCuenta": "Cuenta Soles",
+        "tipoMoneda" : "S/",
+        "montoTotal" : "1,000.80"
+    },
+
+    {
+        "idCuenta": 3,
+        "numeroCuenta": "999999999999",
+        "tipoCuenta": "Cuenta Soles",
+        "tipoMoneda" : "S/",
+        "montoTotal" : "1,000.80"
+    },
+    {
+        "idCuenta": 4,
+        "numeroCuenta": "999999999999",
+        "tipoCuenta": "Cuenta Soles",
+        "tipoMoneda" : "S/",
+        "montoTotal" : "1,000.80"
+    },
+
+    {
+        "idCuenta": 5,
+        "numeroCuenta": "999999999999",
+        "tipoCuenta": "Cuenta Soles",
+        "tipoMoneda" : "S/",
+        "montoTotal" : "1,000.80"
+    },
+    {
+        "idCuenta": 6,
+        "numeroCuenta": "999999999999",
+        "tipoCuenta": "Cuenta Soles",
+        "tipoMoneda" : "S/",
+        "montoTotal" : "1,000.80"
+    },
+    {
+        "idCuenta": 7,
+        "numeroCuenta": "999999999999",
+        "tipoCuenta": "Cuenta Soles",
+        "tipoMoneda" : "S/",
+        "montoTotal" : "1,000.80"
+    },
+    {
+        "idCuenta": 8,
+        "numeroCuenta": "999999999999",
+        "tipoCuenta": "Cuenta Soles",
+        "tipoMoneda" : "S/",
+        "montoTotal" : "1,000.80"
+    },
+    {
+        "idCuenta": 9,
+        "numeroCuenta": "999999999999",
+        "tipoCuenta": "Cuenta Soles",
+        "tipoMoneda" : "S/",
+        "montoTotal" : "1,000.80"
+    },
+    {
+        "idCuenta": 10,
+        "numeroCuenta": "999999999999",
+        "tipoCuenta": "Cuenta Soles",
+        "tipoMoneda" : "S/",
+        "montoTotal" : "1,000.80"
+    },
+    {
+        "idCuenta": 11,
+        "numeroCuenta": "999999999999",
+        "tipoCuenta": "Cuenta Soles",
+        "tipoMoneda" : "S/",
+        "montoTotal" : "1,000.80"
+    },
+    {
+        "idCuenta": 12,
+        "numeroCuenta": "999999999999",
+        "tipoCuenta": "Cuenta Soles",
+        "tipoMoneda" : "S/",
+        "montoTotal" : "1,000.80"
+    },
+    {
+        "idCuenta": 13,
+        "numeroCuenta": "999999999999",
+        "tipoCuenta": "Cuenta Soles",
+        "tipoMoneda" : "S/",
+        "montoTotal" : "1,000.80"
+    },
+    {
+        "idCuenta": 14,
+        "numeroCuenta": "999999999999",
+        "tipoCuenta": "Cuenta Soles",
+        "tipoMoneda" : "S/",
+        "montoTotal" : "1,000.80"
+    },
+    {
+        "idCuenta": 15,
+        "numeroCuenta": "999999999999",
+        "tipoCuenta": "Cuenta Soles",
+        "tipoMoneda" : "S/",
+        "montoTotal" : "1,000.80"
+    },
+    {
+        "idCuenta": 16,
+        "numeroCuenta": "999999999999",
+        "tipoCuenta": "Cuenta Soles",
+        "tipoMoneda" : "S/",
+        "montoTotal" : "1,000.80"
+    },
+    {
+        "idCuenta": 17,
+        "numeroCuenta": "999999999999",
+        "tipoCuenta": "Cuenta Soles",
+        "tipoMoneda" : "S/",
+        "montoTotal" : "1,000.80"
+    },
+    {
+        "idCuenta": 18,
+        "numeroCuenta": "999999999999",
+        "tipoCuenta": "Cuenta Soles",
+        "tipoMoneda" : "S/",
+        "montoTotal" : "1,000.80"
+    },
+    {
+        "idCuenta": 19,
+        "numeroCuenta": "999999999999",
+        "tipoCuenta": "Cuenta Soles",
+        "tipoMoneda" : "S/",
+        "montoTotal" : "1,000.80"
+    },
+    {
+        "idCuenta": 20,
+        "numeroCuenta": "999999999999",
+        "tipoCuenta": "Cuenta Soles",
+        "tipoMoneda" : "S/",
+        "montoTotal" : "1,000.80"
+    },
+    {
+        "idCuenta": 21,
+        "numeroCuenta": "999999999999",
+        "tipoCuenta": "Cuenta Soles",
+        "tipoMoneda" : "S/",
+        "montoTotal" : "1,000.80"
     }
+]
+
+
 }
+
+

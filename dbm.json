@@ -1,0 +1,125 @@
+{
+    "movimientos": [
+        {
+            "idCuenta": 1,
+            "idMovimiento": 1,
+            "tipoMoneda" : "S/",
+            "monto" : "100.80",
+            "indicador" : "1"
+        }, {
+            "idCuenta": 1,
+            "idMovimiento": 2,
+            "tipoMoneda" : "S/",
+            "monto" : "-10.80",
+            "indicador" : "0"
+        }
+        , {
+            "idCuenta": 1,
+            "idMovimiento": 3,
+            "tipoMoneda" : "S/",
+            "monto" : "100.80",
+            "indicador" : "1"
+        }, {
+            "idCuenta": 1,
+            "idMovimiento": 4,
+            "tipoMoneda" : "S/",
+            "monto" : "100.80",
+            "indicador" : "1"
+        }, {
+            "idCuenta": 1,
+            "idMovimiento": 5,
+            "tipoMoneda" : "S/",
+            "monto" : "100.80",
+            "indicador" : "1"
+        }, {
+            "idCuenta": 2,
+            "idMovimiento": 1,
+            "tipoMoneda" : "S/",
+            "monto" : "100.80",
+            "indicador" : "1"
+        }, {
+            "idCuenta": 2,
+            "idMovimiento": 2,
+            "tipoMoneda" : "S/",
+            "monto" : "100.80",
+            "indicador" : "1"
+        }, {
+            "idCuenta": 2,
+            "idMovimiento": 3,
+            "tipoMoneda" : "S/",
+            "monto" : "100.80",
+            "indicador" : "1"
+        }, {
+            "idCuenta": 3,
+            "idMovimiento": 1,
+            "tipoMoneda" : "S/",
+            "monto" : "100.80",
+            "indicador" : "1"
+        }, {
+            "idCuenta": 3,
+            "idMovimiento": 2,
+            "tipoMoneda" : "S/",
+            "monto" : "100.80",
+            "indicador" : "1"
+        }, {
+            "idCuenta": 3,
+            "idMovimiento": 3,
+            "tipoMoneda" : "S/",
+            "monto" : "100.80",
+            "indicador" : "1"
+        }, {
+            "idCuenta": 3,
+            "idMovimiento": 4,
+            "tipoMoneda" : "S/",
+            "monto" : "100.80",
+            "indicador" : "1"
+        }, {
+            "idCuenta": 4,
+            "idMovimiento": 1,
+            "tipoMoneda" : "S/",
+            "monto" : "100.80",
+            "indicador" : "1"
+        }, {
+            "idCuenta": 4,
+            "idMovimiento": 2,
+            "tipoMoneda" : "S/",
+            "monto" : "100.80",
+            "indicador" : "1"
+        }, {
+            "idCuenta": 5,
+            "idMovimiento": 1,
+            "tipoMoneda" : "S/",
+            "monto" : "100.80",
+            "indicador" : "1"
+        }, {
+            "idCuenta": 6,
+            "idMovimiento": 1,
+            "tipoMoneda" : "S/",
+            "monto" : "100.80",
+            "indicador" : "1"
+        }, {
+            "idCuenta": 7,
+            "idMovimiento": 1,
+            "tipoMoneda" : "S/",
+            "monto" : "100.80",
+            "indicador" : "1"
+        }, {
+            "idCuenta": 8,
+            "idMovimiento": 1,
+            "tipoMoneda" : "S/",
+            "monto" : "100.80",
+            "indicador" : "1"
+        }, {
+            "idCuenta": 9,
+            "idMovimiento": 1,
+            "tipoMoneda" : "S/",
+            "monto" : "100.80",
+            "indicador" : "1"
+        }
+    ]
+    
+    
+    }
+    
+    
+    
